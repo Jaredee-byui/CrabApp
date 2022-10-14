@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CrabApp</string>
+    <string name="returnOne">Return</string>
+    <string name="welcome_to_the_crab_app">Welcome, to the Crab App.</string>
+    <string name="crab_one">Crab One</string>
+    <string name="crab_three">crab three</string>
+    <string name="crab_two">crab two</string>
+</resources>
